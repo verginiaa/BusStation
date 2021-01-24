@@ -1,0 +1,4 @@
+15,aswan,sohag,bus,50,6,external,52,2,5/5/2021,8:00 am
+77,cairo,portsaid,bus,78,3,external,90,3,4/4/2021,7:00am
+200,gleem,smouha,limousine,30,3,internal,5,2,7/7/2021,2:00pm
+16,aswan,sohag,limousine,40,6,external,52,3,5/5/2021,3:00 pm
